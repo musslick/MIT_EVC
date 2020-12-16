@@ -4,7 +4,7 @@ Simulations that formalize predictions of Motivational Intensity Theory (MIT) in
 The following plots are available:
 
 Expected value of control (EVC) as a function of task difficulty: 
-*plotEVC.m*
+_plotEVC.m_
 
 Control signal intensity (effort) as a function of expected task difficulty: 
 plotTaskDifficulty.m
